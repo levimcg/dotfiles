@@ -1,0 +1,13 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_options": "no_round",
+	"font_size": 15,
+	"highlight_line": true,
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
