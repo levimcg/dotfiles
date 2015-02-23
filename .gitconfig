@@ -1,0 +1,16 @@
+[user]
+  name = Levi McGranahan
+  email = levimcg@gmail.com
+[color]
+  ui = true
+  branch = true
+[color "status"]
+  added = green
+  changed = cyan
+  untracked = magenta
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  ci = commit
+  hist = log --oneline
